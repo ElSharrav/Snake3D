@@ -1,0 +1,1 @@
+100 player 98 GRACZ 90 player 80 player 70 player 60 player 50 player 40 player 30 player 28 G 

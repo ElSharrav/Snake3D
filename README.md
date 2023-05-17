@@ -4,7 +4,7 @@ Snake 3d with map editor, written in C++, using OpenGL, IrrKlang, GLAD, GLFW and
 
 ## Video presentation
 
-https://www.youtube.com/watch?v=D_fkWQEYPvs  
+[https://www.youtube.com/watch?v=D_fkWQEYPvs ](https://www.youtube.com/watch?v=944DYdVlOX0&ab_channel=ElSharrav) 
 
 ## Controls
 

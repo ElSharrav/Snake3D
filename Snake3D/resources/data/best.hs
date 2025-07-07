@@ -1,0 +1,1 @@
+112 REKORD 100 player 90 player 80 player 70 player 60 player 50 player 40 player 30 player 20 player 
